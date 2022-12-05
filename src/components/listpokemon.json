@@ -1,0 +1,26 @@
+[
+            {
+                "id" : 0,
+                "name":"Pikachu",
+                "image":"./img/pikachu.png",
+                "introduction":"Pikachu (ピカチュウ?) adalah Pokémon utama Ash Ketchum. Pokémon ini adalah semacam pika berwarna kuning dan punya keistimewaan tenaga listrik."
+            },
+            {
+                "id" : 1,
+                "name":"Bulbasaur",
+                "image":"./img/bulbasaur.png",
+                "introduction":"Bulbasaur adalah Pokémon amfibi kecil dan tanaman yang bergerak dengan keempat kakinya. Ia memiliki tubuh biru-hijau dengan bintik-bintik biru-hijau yang lebih gelap."
+            },
+            {
+                "id" : 2,
+                "name":"Blastoise",
+                "image":"./img/blastoise.png",
+                "introduction":"Blastoise adalah salah satu jenis Pokémon air berbentuk kura-kura besar dengan meriam di punggungnya."
+            },
+            {
+                "id" : 3,
+                "name":"Charmander",
+                "image":"./img/charmander.png",
+                "introduction":"Charmander adalah nama untuk salah satu spesies karakter fiksi dari serial Pokémon. Ia menjadi salah satu starter Pokemon di wilayah Kanto bersama Bulbasaur dan Squirtle."
+            }
+]
